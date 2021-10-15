@@ -8,7 +8,7 @@ import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
 
 private const val BASE_URL = "http://api.coinlayer.com/api/"
-private const val ACCESS_KEY = "cf3b8dd2592d0e5a8326f727b7a4cc2f"
+private const val ACCESS_KEY = ""
 
 class Service {
 
