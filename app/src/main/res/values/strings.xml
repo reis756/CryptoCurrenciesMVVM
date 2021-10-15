@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CryptoCurrencyMVVM</string>
+    <string name="get_currencies">Cotação Cryptomoedas</string>
+</resources>
